@@ -33,6 +33,6 @@ end
 
   s.dependency 'FXLogSwift'
 
-  s.dependency 'ReactiveSwift’,'1.1.1'
+  s.dependency 'ReactiveSwift','1.1.1'
 
 end
